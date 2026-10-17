@@ -1,3 +1,4 @@
+--By this gate, B.A.T.S is fully able to locally connect and fully control the workspace in Roblox Studio.
 """
 B.A.T.S plugin: control Roblox Studio through a local bridge.
 Requires the BatsBridge.lua Studio plugin to be installed (see tutorial).
