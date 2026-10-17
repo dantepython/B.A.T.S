@@ -11,6 +11,7 @@ don't expect magic happening.
 Q: Why does in every code the A.I keeps getting refered to as "J.A.R.V.I.S"? 
 A: The baseplate for the assistant came from the FatihMakes MARK XX, and got better and better from there by further personal customization. So, instead of switching
 it all up, i left it like the original and simply internally defined in his memory that his name is B.A.T.S.
+Current version from the original: https://github.com/FatihMakes/Mark-LV
 
 Q: How can i apply him in my computer?
 A: Soon to be taught.
