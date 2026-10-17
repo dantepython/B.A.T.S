@@ -1,4 +1,4 @@
-###Plugin prompt in utilization. Status: Functioning even without API connection.
+###Plugin prompt in utilization. Status: Functioning even without the Spotify API connection.
 """
 Plugin JARVIS: controle completo do Spotify (aplicativo desktop aberto no Windows).
 
