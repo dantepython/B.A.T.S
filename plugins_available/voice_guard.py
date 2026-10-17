@@ -1,3 +1,4 @@
+#Still barely functional, easy to go-through. Simple security test to further put it better.
 """
 Plugin JARVIS: guarda de voz (só atende o dono) + palavra de segurança.
 
