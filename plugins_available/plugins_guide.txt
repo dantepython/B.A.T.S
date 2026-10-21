@@ -1,4 +1,4 @@
-##Okay, but how do i create a plugin?
+Okay, but how do i create a plugin?
 
 Here you can find a template of what you need to create and YES, it's universal for any type of plugin you wish to develop.
 Use Claude Code or GPT-Lua (recommended) to create, and ask the AI to create a plugin for your A.I assistant based on the template you'll find here.
