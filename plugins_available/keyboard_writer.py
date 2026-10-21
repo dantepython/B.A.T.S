@@ -1,3 +1,4 @@
+#Makes BATS able to open-up and write in the notepad to pass information to the user.
 """
 keyboard_writer — drop-in JARVIS plugin.
 
